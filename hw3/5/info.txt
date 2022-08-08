@@ -1,3 +1,0 @@
-Bigges number: sort -nr <  numbers.txt | head -n 1
-Smallest number: sort -n <  numbers.txt | head -n 1
-
