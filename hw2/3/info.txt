@@ -1,0 +1,2 @@
+1. Generate random numbers in numbers.txt: ./generator > numbers.txt
+2. Find the biggest number: ./main < numbers.txt
