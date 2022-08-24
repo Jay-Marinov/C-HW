@@ -1,0 +1,9 @@
+void TestStrlen();
+void TestStrnlen();
+void TestStrcpy();
+void TestStrncpy();
+void TestStrcat();
+void TestStrncat();
+void TestStrcmp();
+void TestStrncmp();
+void TestStrstr();
