@@ -1,0 +1,7 @@
+Program that calculates rectangle area and perimeter by given width and height
+
+Compile:
+gcc rectangle.c funcs.c -o rectangle
+
+Run:
+./rectangle

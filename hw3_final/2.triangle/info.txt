@@ -1,0 +1,7 @@
+Program that calculates triangle area and perimeter by given three sides
+
+Compile:
+gcc triangle.c funcs.c -lm -o triangle
+
+Run:
+./triangle 

@@ -1,0 +1,7 @@
+Program that counts the number of 1's in 64 bit mask
+
+Compile:
+gcc maskCounter.c funcs.c -o maskCounter
+
+Run:
+./maskCounter 

@@ -1,0 +1,7 @@
+Calculator that performs: adding, subtracting, multiplication and division
+
+Compile:
+gcc calculator.c funcs.c -o calculator
+
+Run: 
+./calculator

@@ -1,0 +1,7 @@
+Program that calculates a quadratic equation
+
+Compile:
+gcc quadEquation.c funcs.c -lm -o quadEquation
+
+Run:
+./quadEquation
