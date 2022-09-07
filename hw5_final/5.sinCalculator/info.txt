@@ -1,0 +1,7 @@
+Program that calculates the sin of an angle without math.h lib
+
+Compile:
+gcc sinCalculator.c funcs.c -o sinCalculator
+
+Run:
+./sinCalculator

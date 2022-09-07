@@ -1,0 +1,7 @@
+Program that calculates the square root of a number without math.h lib
+
+Compile:
+gcc squareRootCalculator.c funcs.c -o squareRootCalculator
+
+Run:
+./squareRootCalculator

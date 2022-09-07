@@ -1,0 +1,22 @@
+MaskMacros.c:
+    1 - Macro (SETBIT) that sets a bit to 1
+    2 - Macro (CLEARBIT) that sets a bit to 0
+    3 - Macro (INVERSEBIT) that inverses a bit
+    4 - Macro (CHECKBIT) that checks if a bit is set to 1 or 0
+
+MaxMinMacros.c:
+    1 - Macro (MAX) that returns the biggest of three numbers
+    2 - Macro (MIN) that returns the smallest of three numbers
+
+SwapMacro.c
+    Macro that swaps the value of two integers
+
+Compile:
+    gcc maskMacros.c -o maskMacros
+    gcc maxMinMacros.c -o maxMinMacros
+    gcc swapMacro.c -o swapMacro
+
+Run:
+    ./maskMacros
+    ./maxMinMacros
+    ./swapMacro

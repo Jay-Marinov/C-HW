@@ -1,0 +1,12 @@
+Step by step compilation
+
+step 1 (preprocessor): gcc -E program.c -o program.i
+        gcc -E swap.c -o swap.i
+
+step 2 (compiler): gcc -S program.i -o program.s
+        gcc -S swap.i -o swap.s
+
+step 3 (assembler): gcc -c program.s -o program.o
+        gcc -c swap.s -o swap.o
+
+step 4 (linker): gcc program.o swap.o -o program

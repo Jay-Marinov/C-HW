@@ -1,0 +1,10 @@
+Program that creates an array in the dynamic memory (Heap) and then resizes it twice.
+    The initial array elements should be numbers between between 0 and 1.
+    The elements for the secon resize should be numbers between 1 and 2.
+    Thee elements for the third resize should be numbers between 2 and 3.
+
+Compile:
+gcc dynamicMemoryArray.c funcs.c -o dynamicMemoryArray
+
+Run:
+./dynamicMemoryArray
