@@ -1,0 +1,9 @@
+Calculate liquid level in vertical or horizontal cylinder
+Option 1: calculate in vertical position
+Option 2: calculate in horizontal position
+
+Compile:
+gcc cylinderVolumeCalculator.c funcs.c -lm -o cylinderVolumeCalculator
+
+Run:
+./cylinderVolumeCalculator

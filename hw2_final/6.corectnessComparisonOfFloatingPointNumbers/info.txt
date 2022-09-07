@@ -1,0 +1,7 @@
+А program that compares the correctness of different methods when comparing floating point numbers
+
+Compile:
+gcc corectnessComparisonOfFloatingPointNumbers.c func.c -lm -o corectnessComparisonOfFloatingPointNumbers
+
+Run:
+./corectnessComparisonOfFloatingPointNumbers

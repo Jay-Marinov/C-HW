@@ -1,0 +1,11 @@
+ Returns the biggest of three real numbers
+
+1. Compile: 
+gcc biggestOf3Numbers.c funcs.c -o biggestOf3Numbers
+gcc randomNumbersGenerator.c -o randomNumbersGenerator
+
+2. Generate random numbers in randomNumbers.txt: 
+./randomNumbersGenerator > randomNumbers.txt
+
+3. Find the biggest number: 
+./biggestOf3Numbers < randomNumbers.txt

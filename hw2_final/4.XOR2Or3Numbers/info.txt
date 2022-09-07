@@ -1,0 +1,9 @@
+XOR with 2 or 3 numbers (0's or 1's)
+
+1. Type two or three 0's or 1's in numbers.txt
+
+2. Compile:
+gcc XOR2Or3Numbers.c func.c -o XOR2Or3Numbers
+
+3. Perform XOR: 
+./XOR2Or3Numbers < numbers.txt

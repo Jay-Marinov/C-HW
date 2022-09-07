@@ -1,0 +1,5 @@
+1. Get the biggest number (from numbers.txt) using linux cmd and pipelines
+2. Get the smallest number (from numbers.txt) using linux cmd and pipelines
+
+Bigges number: sort -nr <  numbers.txt | head -n 1
+Smallest number: sort -n <  numbers.txt | head -n 1

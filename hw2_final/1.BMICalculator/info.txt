@@ -1,0 +1,9 @@
+BMI calculator
+Option 1: Simple BMI calculatir
+Option 2: Accurate BMI calculator
+
+Compile:
+gcc BMICalculator.c funcs.c -lm -o BMICalculator
+
+Run:
+./BMICalculator
