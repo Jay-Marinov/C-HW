@@ -1,0 +1,7 @@
+Program that recreates standart string functions: strlen(), strnlen(), strcpy(), strncpy(), strcat(), strncat(), strcmp(), strncmp(), sttrstr()
+
+Compile:
+gcc standartStringFunctions.c funcs.c testFuncs.c -o standartStringFunctions
+
+Run:
+./standartStringFunctions

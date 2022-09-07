@@ -1,0 +1,7 @@
+Program that returns the second biggest number in array
+
+Compile:
+gcc secondBiggestNumberInArray.c funcs.c -o secondBiggestNumberInArray
+
+Run:
+./secondBiggestNumberInArray

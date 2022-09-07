@@ -1,0 +1,7 @@
+Program that calculates the sum of all digits of all elements in array of integers
+
+Compile:
+gcc sumOfAllArrayDigits.c funcs.c -o sumOfAllArrayDigits
+
+Run:
+./sumOfAllArrayDigits
