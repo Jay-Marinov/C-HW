@@ -1,0 +1,8 @@
+Program with a function that reverses null terminated string.
+Function prototype: void Reverse(char *ptr);
+
+Compile:
+gcc reverseString.c funcs.c -o reverseString
+
+Run:
+./reverseString

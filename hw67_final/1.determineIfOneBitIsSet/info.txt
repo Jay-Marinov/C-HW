@@ -1,0 +1,9 @@
+Program with a function that takes 16 bit number and should determine whether exactly one bit in the number is set.
+If one bit is set - the function should return 1, otherwise 0.
+Function prototype:  unsigned char CheckBit(int16_t uValue);
+
+Compile:
+gcc determineIfOneBitIsSet.c funcs.c -o determineIfOneBitIsSet
+
+Run:
+./determineIfOneBitIsSet

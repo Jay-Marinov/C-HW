@@ -1,0 +1,9 @@
+Program with a function which performs addition of POSITIVE numbers, represented as strings.
+The result is stored into a buffer, passed as a parameter to the function.
+The prototype of the function is void Add(const char *p1, const char *p2, char *result);
+
+Compile:
+gcc additionOfStrings.c funcs.c -o additionOfStrings
+
+Run:
+./additionOfStrings

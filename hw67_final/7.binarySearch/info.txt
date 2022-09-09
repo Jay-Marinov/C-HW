@@ -1,0 +1,11 @@
+Program that includes a function that performs binary search.
+The prototype of the function is unsigned int BinSearch(unsigned int *pArray, unsigned int uArraySize, unsigned int uValue).
+- pArray - pointer to sored array with ascending order of elements
+- uArraySize - number of elements in the array
+- uValue - searched value (if the value is found, the function should return the index of the value, otherwise 0xFFFF)
+
+Compile:
+gcc binarySearch.c funcs.c -o binarySearch
+
+Run:
+./binarySearch

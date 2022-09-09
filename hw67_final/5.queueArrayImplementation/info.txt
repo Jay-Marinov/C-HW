@@ -1,0 +1,15 @@
+Program that realizes a queue from integers with array.
+int arr[MAX_SIZE];
+int top;
+int bottom;
+
+int isEmpty() - returns 0 if queue is empty and > 0 if not
+int isFull() - returns 0 if the queue is full and > 0 if not
+void Push() - adds new element to the queue
+int Pop() - retrieve element from the queue
+
+Compile:
+gcc queueArrayImplementation.c funcs.c -o queueArrayImplementation
+
+Run:
+./queueArrayImplementation

@@ -1,0 +1,9 @@
+Program with a function that returns a vertical mirror image of 8x8 pixel image.
+Image is monochrome - each pixel is coded as one bit and each byte represents one image row.
+Function prototype: void VMirror(unsigned char *pImage);
+
+Compile:
+gcc mirrorImage.c funcs.c -o mirrorImage
+
+Run:
+./mirrorImage

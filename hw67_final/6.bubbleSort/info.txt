@@ -1,0 +1,10 @@
+Program with function that performs bubble sort.
+The prototype of the function is void Bubble(int *pArray, unsigned int uLen);
+*pArray - pointer to unsorted pArray
+uLen - array size
+
+Compile:
+gcc bubbleSort.c funcs.c -o bubbleSort
+
+Run:
+./bubbleSort

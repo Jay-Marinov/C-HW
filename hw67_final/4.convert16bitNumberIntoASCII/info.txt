@@ -1,0 +1,10 @@
+Program with a function that takes 16 bit number and convert it into ASCII null terminated string.
+Function prototype: void Conv(int sValue, char *pBuffer);
+pBuffer - pointer to string buffer;
+Format should be: " DDDDD" for positive numbers, "-DDDDD" for negative numbers.
+
+Compile:
+gcc convert16bitNumberIntoASCII.c funcs.c -o convert16bitNumberIntoASCII
+
+Run:
+./convert16bitNumberIntoASCII
