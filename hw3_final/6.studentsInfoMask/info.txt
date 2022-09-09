@@ -1,0 +1,13 @@
+ Program that uses 64 bit mask to store info about students.
+    Options:
+    - Мark student attendance
+    - Мark student absence
+    - Show total missing students and their student numbers 
+    - Show total attending students and their student numbers 
+    - Change student status
+
+Compile:
+gcc studentsInfoMask.c funcs.c -o studentsInfoMask
+
+Run:
+./studentsInfoMask
